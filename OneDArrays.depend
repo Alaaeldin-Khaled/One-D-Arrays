@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1694718515 source:c:\users\hp\documents\codeblocks\onedarrays\main.cpp
+	<iostream>
+	"oneDArraysEQ1.h"
+	"oneDArraysEQ2.h"
+	"oneDArraysEQ3.h"
+	"oneDArraysEQ4.h"
+	"oneDArraysEQ5.h"
+	"oneDArraysMQ1.h"
+	"oneDArraysMQ2.h"
+	"oneDArraysMQ3.h"
+	"oneDArraysMQ4.h"
+	"oneDArraysMQ5.h"
+	"oneDArraysMQ6.h"
+
+1694626149 c:\users\hp\documents\codeblocks\onedarrays\onedarrayseq1.h
+	<iostream>
+
+1694626149 c:\users\hp\documents\codeblocks\onedarrays\onedarrayseq2.h
+	<iostream>
+
+1694626149 c:\users\hp\documents\codeblocks\onedarrays\onedarrayseq3.h
+	<iostream>
+
+1694627485 c:\users\hp\documents\codeblocks\onedarrays\onedarrayseq4.h
+	<iostream>
+
+1694628666 c:\users\hp\documents\codeblocks\onedarrays\onedarrayseq5.h
+	<iostream>
+
+1694635325 c:\users\hp\documents\codeblocks\onedarrays\onedarraysmq1.h
+	<iostream>
+
+1694787331 c:\users\hp\documents\codeblocks\onedarrays\onedarraysmq2.h
+	<iostream>
+
+1694699425 c:\users\hp\documents\codeblocks\onedarrays\onedarraysmq3.h
+	<iostream>
+
+1694718457 c:\users\hp\documents\codeblocks\onedarrays\onedarraysmq4.h
+	<iostream>
+
+1694718457 c:\users\hp\documents\codeblocks\onedarrays\onedarraysmq5.h
+	<iostream>
+
+1694718722 c:\users\hp\documents\codeblocks\onedarrays\onedarraysmq6.h
+	<iostream>
+
